@@ -9378,9 +9378,7 @@ For e.g. 1 USD = 100 Cent","1 عملة = [?] أجزاء
 "Lounge Number","عدد الصالات"
 "Bathroom Number","عدد الحمامات"
 "Has Kitchen","يملك مطبخ"
-"Recipient Name", "اسم المستلم"
-"Sender Address", "عنوان المرسل"
-"Transaction Status", "حالة الحوالة"
-"Transaction Info", "البيانات الاضافية للحوالة"
-
-
+"Recipient Name","اسم المستلم"
+"Sender Address","عنوان المرسل"
+"Transaction Status","حالة الحوالة"
+"Transaction Info","البيانات الاضافية للحوالة"
